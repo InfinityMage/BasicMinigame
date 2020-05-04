@@ -1,0 +1,10 @@
+name: FirstMinigame
+version: 1.0.0
+author: InfinityMage
+description: A new system for enchanting in Minecraft
+main: club.infinitymage.firstminigame.FirstMinigame
+api-version: 1.15
+commands:
+  start:
+  join:
+  leave:
