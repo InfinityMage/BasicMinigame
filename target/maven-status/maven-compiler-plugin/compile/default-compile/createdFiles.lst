@@ -1,9 +1,0 @@
-club\infinitymage\firstminigame\util\Text.class
-club\infinitymage\firstminigame\commands\LeaveCommand.class
-club\infinitymage\firstminigame\util\EmptyChunkGenerator.class
-club\infinitymage\firstminigame\instances\Game.class
-club\infinitymage\firstminigame\util\RandomAlphaString.class
-club\infinitymage\firstminigame\managers\GameManager.class
-club\infinitymage\firstminigame\FirstMinigame.class
-club\infinitymage\firstminigame\commands\StartCommand.class
-club\infinitymage\firstminigame\commands\JoinCommand.class
